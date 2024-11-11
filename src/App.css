@@ -79,3 +79,25 @@ a{
 .App-Linklist-header{
   color: #52E4C0;
 }
+
+input {
+  background-color: gray;
+}
+
+textarea {
+  margin-top: 10px;
+  background-color: gray;}
+
+  label {
+  margin: 10px;
+  text-align: left;
+}
+
+label, textarea {
+  display: block;
+}
+
+h4{
+  color: #ee4cf7;;
+  text-align: left;
+}
